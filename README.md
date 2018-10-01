@@ -24,3 +24,5 @@ Steps:
  
 6. If there is something left on stack and you don't want it.
  git stash
+
+Note: Step 4 is not required if you are sure that the last commit is yours.
